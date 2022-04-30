@@ -1,0 +1,287 @@
+body
+{
+	font-family: Poppins;
+	background-color: #CECECE;
+
+}
+h1
+{
+	font-size: 3em;
+	text-align: center;
+}
+h2
+{
+	font-size: 1.5em;
+	text-decoration: none;
+	color: #5A6B9C;
+}
+h3
+{
+	font-size: 1em;
+}
+p{
+	font-size: 0.8em;
+}
+.header
+{
+	
+	height: 200px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: row;
+	background-image: url("ingenieur.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: bottom;
+	color: white;
+	border-radius: 10px 10px 0px 0px;
+	margin-bottom: 30px;
+
+}
+.pdp
+{
+	width: 200px;
+	height: 150px;
+	
+	margin: 10px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.img
+{
+	height: 180px;
+	border-radius: 60px;
+}
+.name
+{
+	width: 800px;
+	height: 150px;
+	
+	margin: 10px;
+}
+.boite{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	
+	flex-direction: column;
+}
+
+
+.boite1
+{
+	height: 400px;
+	width: 1000px;
+	
+	margin: 20px;
+	border-radius: 10px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: row;
+	background-color: white;
+	box-shadow: 0px 0px 10px 4px rgba(119, 119, 119, 0.75);
+
+}
+.boite1_title
+{
+	
+	margin: 25px;
+	margin-top: 50px;
+}
+.boite1_corps
+{
+	
+	
+	min-width: 100px;
+
+}
+.boite1_2
+{
+	
+	margin: 10px;
+	width: 480px;
+	height: 340px;
+
+
+}
+.cv
+{
+	height: 40px;
+	width: 300px;
+	text-align: center;
+	color: white;
+	border-radius: 5px;
+	border: none;
+	background-color: #B3B3B3;
+	margin-top: 20px;
+}
+.boite2
+{
+	height: 600px;
+	width: 1000px;
+
+	margin: 20px;
+	border-radius: 10px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	background-color: white;
+	box-shadow: 0px 0px 10px 4px rgba(119, 119, 119, 0.75);
+}
+.boite2_corps
+{
+	border-bottom: 1px solid black;
+	min-height: 100px;
+	width: 850px;
+	margin: 10px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: row;
+}
+.boite2_boite
+{
+	display: flex;
+	justify-content: center;
+	flex-direction: row;
+	
+
+}
+.boite1_boite
+{
+	display: flex;
+	justify-content: center;
+	flex-direction: row;
+	
+	margin: 20px;
+}
+.separation
+{
+	height: 350px;
+	width: 3px;
+	background-color: #9E9E9E;
+	border: 5px;
+}
+.boite2_title
+{
+	
+	
+	width: 900px;
+	padding: 10px;
+}
+.img_pro
+{
+	width: 100px;
+	height: 80px;
+	
+	margin: 10px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.xp_text
+{
+	
+	margin: 10px;
+	min-height: 80px;
+	width: 800px;
+}
+.logo_ent
+{
+	height: 80px;
+
+}
+.boite3
+{
+	height: 600px;
+	width: 1000px;
+
+	margin: 20px;
+	border-radius: 10px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	background-color: white;
+	box-shadow: 0px 0px 10px 4px rgba(119, 119, 119, 0.75);
+}
+.boite4
+{
+	height: 600px;
+	width: 1000px;
+
+	margin: 20px;
+	border-radius: 10px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	background-color: white;
+	box-shadow: 0px 0px 10px 4px rgba(119, 119, 119, 0.75);
+}
+
+.competence
+{
+	border-bottom: 1px solid black;
+	min-height: 200px;
+	width: 850px;
+	margin: 10px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: row;
+}
+.competence1
+{
+	
+	height: 120px;
+	margin: 10px;
+	min-width: 200px;
+	display: flex;
+	justify-content: center;
+	align-items: flex-start;
+	flex-direction: column;
+	text-align: left;
+	
+
+}
+.competence2
+{
+	
+	height: 180px;
+	margin: 10px;
+	min-width: 600px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+}
+.comp_p
+{
+	
+	text-align: left;
+	width: 180px;
+
+}
+.file
+{
+	height: 25px;
+	width: 400px;
+	margin: 2px;
+}
+.haut
+{
+	margin-bottom: 50px;
+}
+.cpt
+{
+	margin: 4px;
+	height: 20px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
