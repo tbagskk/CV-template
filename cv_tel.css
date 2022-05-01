@@ -3,6 +3,7 @@ body
 	font-family: Poppins;
 	background-color: #CECECE;
 
+
 }
 h1
 {
@@ -73,7 +74,7 @@ p{
 .boite1
 {
 	height: 400px;
-	width: 1000px;
+	width: 900px;
 	
 	margin: 20px;
 	border-radius: 10px;
@@ -121,7 +122,7 @@ p{
 .boite2
 {
 	height: 600px;
-	width: 1000px;
+	width: 900px;
 
 	margin: 20px;
 	border-radius: 10px;
@@ -170,8 +171,9 @@ p{
 {
 	
 	
-	width: 900px;
+	width: 800px;
 	padding: 10px;
+	
 }
 .img_pro
 {
@@ -198,7 +200,7 @@ p{
 .boite3
 {
 	height: 600px;
-	width: 1000px;
+	width: 900px;
 
 	margin: 20px;
 	border-radius: 10px;
@@ -212,7 +214,7 @@ p{
 .boite4
 {
 	height: 600px;
-	width: 1000px;
+	width: 900px;
 
 	margin: 20px;
 	border-radius: 10px;
@@ -288,7 +290,7 @@ p{
 .boite5
 {
 	height: 300px;
-	width: 1000px;
+	width: 900px;
 
 	margin: 20px;
 	border-radius: 10px;
